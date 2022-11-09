@@ -8,13 +8,13 @@ You should use the files in the corresponding folders to solve each task. Each f
 
 | Task |               Folder |
 |-----:|---------------------:|
-|   1  | task1_opencv_control  |
-|   2  | task2_motor_control |
+|   1  | task1_opencv_control |
+|   2  | task2_motor_control  |
 |   3  | task3_sensor_control |
 
 ## Task 4
 
-The root folder contains the necessary files and folders to complete the task 4. As you already know, the results of previous tasks is going to be employed by a Flask web application. Take the following information into account:
+The root folder contains the necessary files and folders to run the whole project. The results of previous tasks is going to be employed by a Flask web application. Take the following information into account:
 
 1. *requirements.txt*: this file contains the libraries that you might required for running the app. After creating your environment you should install these libraries as follows:
 
